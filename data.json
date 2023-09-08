@@ -1,0 +1,245 @@
+{
+      "products":  [
+            {
+                  "id": "01",
+                  "category": "processor",
+                  "brandName": "AMD",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-3-3200g/ryzen-3-3200g-3-500x500.jpg",
+                  "status": "In stock",
+                  "modelNo": "AMD Ryzen 3 3200G Processor with Radeon RX Vega 8 Graphics",
+                  "price": "12500",
+                  "rating": "*****"
+            },
+            {
+                  "id": "02",
+                  "category": "processor",
+                  "brandName": "Intel",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i3-10100/i3-10100-500x500.jpg",
+                  "status": "In stock",
+                  "modelNo": "Intel 10th Gen Core i3 10100 Processor",
+                  "price": "12000",
+                  "rating": "*****"
+            },
+            {
+                  "id": "03",
+                  "category": "processor",
+                  "brandName": "Intel",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/processor/intel/core-i3-13100/core-i3-13100-01-500x500.webp",
+                  "status": "Out of stock",
+                  "modelNo": "Intel 13th Gen Core i3-13100F Raptor Lake Processor",
+                  "price": "13500",
+                  "rating": "*****"
+            },
+            {
+                  "id": "04",
+                  "category": "motherboard",
+                  "brandName": "Intel",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/h410m-h-v3/h410m-h-v3-01-500x500.webp",
+                  "status": "In stock",
+                  "modelNo": "GIGABYTE H410M H V3 10th Gen Micro ATX Motherboard",
+                  "price": "8900",
+                  "rating": "*****"
+            },
+            {
+                  "id": "05",
+                  "category": "motherboard",
+                  "brandName": "Intel",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/h510m-h/h510m-h-box-500x500.jpg",
+                  "status": "In stock",
+                  "modelNo": "GIGABYTE H510M H Intel 10th and 11th Gen Micro ATX Motherboard",
+                  "price": "9900",
+                  "rating": "*****"
+            },
+            {
+                  "id": "06",
+                  "category": "motherboard",
+                  "brandName": "AMD",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/motherboard/nzxt/n7-b550/n7-b550-white-01-500x500.jpg",
+                  "status": "Out of stock",
+                  "modelNo": "NZXT N7 B550 Matte White AMD AM4 ATX Wi-Fi Gaming Motherboard",
+                  "price": "13000",
+                  "rating": "*****"
+            },
+            {
+                  "id": "07",
+                  "category": "RAM",
+                  "brandName": "Transcend",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/ram/transcend/jetram-4gb/jetram-4gb-01-500x500.webp",
+                  "status": "In stock",
+                  "modelNo": "Transcend JetRam 4GB DDR4 3200MHz U-DIMM Desktop RAM",
+                  "price": "1500",
+                  "rating": "****"
+            },
+            {
+                  "id": "08",
+                  "category": "RAM",
+                  "brandName": "HP",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/ram/hp-ram/v6-8gb/v6-8gb-01-500x500.webp",
+                  "status": "In stock",
+                  "modelNo": "HP V6 8GB 3200MHz DDR4 Desktop RAM",
+                  "price": "1500",
+                  "rating": "*****"
+            },
+            {
+                  "id": "09",
+                  "category": "RAM",
+                  "brandName": "Gigabyte",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/ram/gigabyte/aorus-rgb/aorus-rgb-500x500.jpg",
+                  "status": "Out of stock",
+                  "modelNo": "Gigabyte AORUS RGB 16GB (2X8GB) 3600MHz Desktop RAM without Demo Kit",
+                  "price": "2500",
+                  "rating": "*****"
+            },
+            {
+                  "id": "10",
+                  "category": "storage devices",
+                  "brandName": "Toshiba",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/s300/s300-6tb-01-500x500.jpg",
+                  "status": "In stock",
+                  "modelNo": "Toshiba S300 6TB 5400rpm 3.5 Surveillance Hard Drive",
+                  "price": "12800",
+                  "rating": "*****"
+            },
+            {
+                  "id": "11",
+                  "category": "storage devices",
+                  "brandName": "Samsung",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/870-evo/870-evo-01-500x500.jpg",
+                  "status": "In stock",
+                  "modelNo": "Samsung 870 EVO 500GB 2.5 Inch SATA III Internal SSD",
+                  "price": "4590",
+                  "rating": "*****"
+            },
+            {
+                  "id": "12",
+                  "category": "storage devices",
+                  "brandName": "Sandisk",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/ssd/sandisk/2tb-usb-3-2-gen-2-type-c-portable-ssd/2tb-usb-3-2-gen-2-type-c-portable-ssd-01-500x500.webp",
+                  "status": "Out of stock",
+                  "modelNo": "Sandisk 2TB USB 3.2 Gen 2 Type-C Portable SSD",
+                  "price": "22000",
+                  "rating": "*****"
+            },
+            {
+                  "id": "13",
+                  "category": "monitor",
+                  "brandName": "LG",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/22mk600m/lg-22mk600m-1-500x500.jpg",
+                  "status": "In stock",
+                  "modelNo": "LG 22MK600M-B 21.5 inch IPS Full HD LED Monitor",
+                  "price": "14700",
+                  "rating": "*****"
+            },
+            {
+                  "id": "14",
+                  "category": "monitor",
+                  "brandName": "Lenovo",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/d22-30/d22-30-500x500.webp",
+                  "status": "In stock",
+                  "modelNo": "Lenovo D22-30 21.5-inch FHD Monitor",
+                  "price": "11000",
+                  "rating": "*****"
+            },
+            {
+                  "id": "15",
+                  "category": "monitor",
+                  "brandName": "Samsung",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/monitor/samsung/c49g95tssw/c49g95tssw-1-500x500.jpg",
+                  "status": "Out of stock",
+                  "modelNo": "Samsung Odyssey G9 C49G95TSSW 49'' 240Hz G-Sync Dual-QHD Curved Gaming Monitor",
+                  "price": "35000",
+                  "rating": "*****"
+            },
+            {
+                  "id": "16",
+                  "category": "networking",
+                  "brandName": "Netis",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/switch/netis/st3108gc-8-port-gigabit/st3108gc-8-port-01-500x500.jpg",
+                  "status": "In stock",
+                  "modelNo": "Netis ST3108GC 8 Port Gigabit Ethernet Switch",
+                  "price": "2340",
+                  "rating": "*****"
+            },
+            {
+                  "id": "17",
+                  "category": "networking",
+                  "brandName": "TP-Link",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/router/tp-link/archer-ax55/archer-ax55-01-500x500.jpg",
+                  "status": "In stock",
+                  "modelNo": "TP-Link Archer AX55 AX3000 3000Mbps Gigabit Dual-Band Wi-Fi 6 Router",
+                  "price": "12500",
+                  "rating": "*****"
+            },
+            {
+                  "id": "18",
+                  "category": "networking",
+                  "brandName": "Tenda",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/lan-card/netis/w311mi-ax300/w311mi-ax300-01-500x500.webp",
+                  "status": "Out of stock",
+                  "modelNo": "Tenda W311MI AX300 Wi-Fi 6 Wireless Nano USB Adapter",
+                  "price": "850",
+                  "rating": "*****"
+            },
+            {
+                  "id": "19",
+                  "category": "security",
+                  "brandName": "Dahua",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/security-camera/dahua/ip-camera/imou-ranger-iq/imou-ranger-iq-500x500.jpg",
+                  "status": "In stock",
+                  "modelNo": "Dahua imou Ranger Pro IP Camera with 360 Degree Coverage",
+                  "price": "6500",
+                  "rating": "*****"
+            },
+            {
+                  "id": "20",
+                  "category": "security",
+                  "brandName": "ARMOR",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/ip-camera/armor/ar-b13bip4a/ar-b13bip4a-01-500x500.jpg",
+                  "status": "In stock",
+                  "modelNo": "ARMOR AR-B13BIP4A 4MP IP Bullet Camera",
+                  "price": "2500",
+                  "rating": "*****"
+            },
+            {
+                  "id": "21",
+                  "category": "security",
+                  "brandName": "Uniview",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/cc-camera/uniview/uac-t112-f28/uac-t112-f28-500x500.webp",
+                  "status": "Out of stock",
+                  "modelNo": "Uniview UAC-T112-F28-W 2MP ColourHunter HD Fixed Turret Analog",
+                  "price": "2650",
+                  "rating": "*****"
+            },
+            {
+                  "id": "22",
+                  "category": "others",
+                  "brandName": "Epson",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/projector/Epson/eb-w06/eb-w06-500x500.jpg",
+                  "status": "In stock",
+                  "modelNo": "Epson EB-W06 3700 Lumens WXGA 3LCD Office Projector",
+                  "price": "67000",
+                  "rating": "*****"
+            },
+            {
+                  "id": "23",
+                  "category": "others",
+                  "brandName": "A4tech",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/keyboard/a4-tech/kk-3330/a4tech-kk-3330-keyboard-mouse-combo-500x500.jpg",
+                  "status": "In stock",
+                  "modelNo": "A4tech KK-3330 USB Multimedia Keyboard Mouse Combo Black",
+                  "price": "1100",
+                  "rating": "*****"
+            },
+            {
+                  "id": "24",
+                  "category": "others",
+                  "brandName": "Lenovo",
+                  "imageSrc": "https://www.startech.com.bd/image/cache/catalog/mouse/lenovo/lenovo%20500/lenovo%20530%2001-500x500.webp",
+                  "status": "Out of stock",
+                  "modelNo": "Lenovo 530 Wireless Mouse",
+                  "price": "1350",
+                  "rating": "*****"
+            }
+
+      ]
+}
