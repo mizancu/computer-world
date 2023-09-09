@@ -31,7 +31,7 @@ const Slider = () => {
                         />
                         <Image
                               style={contentStyle}
-                              src="https://www.startech.com.bd/image/cache/catalog/home/banner/gazipur-offer-home-page-982x500.webp"
+                              src="https://www.startech.com.bd/image/cache/catalog/home/banner/WhatsApp%20Image%202023-08-30%20at%2012.46.33-982x500.webp"
                               height={250}
                               width={982}
                               alt='Computer image'
